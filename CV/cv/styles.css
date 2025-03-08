@@ -45,23 +45,14 @@ header h1 {
 }
 
 .section {
-    border: 2px solid #4a90e2;
+    border-bottom: 2px solid #4a90e2;
     padding: 10px;
-    border-radius: 8px;
 }
 
 .education-certificates, .skills {
     display: flex;
     justify-content: space-between;
     gap: 10px;
-}
-
-.box {
-    background-color: #e3f2fd;
-    padding: 10px;
-    border-radius: 6px;
-    text-align: center;
-    flex: 1;
 }
 
 .skills {
